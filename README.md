@@ -1,2 +1,2 @@
 # Data-Science
-A collection of projects from my data science course
+A collection of projects from my Data Science course
